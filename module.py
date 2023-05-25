@@ -7,3 +7,11 @@ class ClasseDoModulo:
     def metodo_qualquer(self):
         variavel = 'variável do método do módulo'
         return variavel
+
+
+class Qualquer:
+    ...
+
+
+def AlgumaCoisa():
+    print("Alguma coisa")
